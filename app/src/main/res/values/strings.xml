@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reddit Pics</string>
+
+
+        <string name="navigation_drawer_open">open navigation drawer</string>
+        <string name="navigation_drawer_close">close navigation drawer</string>
+
+</resources>
